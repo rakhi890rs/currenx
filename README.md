@@ -25,4 +25,4 @@ A simple currency converter web application that allows users to convert amounts
 ## 📂 Installation  
 Clone this repository:  
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/rakhi890rs/currency-converter.git
